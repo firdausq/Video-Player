@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input:not(:first-of-type) {
+	margin-left: 20px;
+}
+
+video {
+	margin: 30px;
+	width: 500px;
+	max-width: 85%;
+}
